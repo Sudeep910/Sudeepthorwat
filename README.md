@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sudeep Thorwat 
+# Hi 👋, I'm Sudeep thorwat 
 
 🎓 3rd Year ECE Student  
 💡 Passionate about AI, Full Stack Development & Embedded Systems  
