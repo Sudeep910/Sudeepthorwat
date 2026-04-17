@@ -5,7 +5,7 @@
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
 📫 How to reach me: sudeepthorwat1@gmail.com
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sudeepthorwat&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sudeepthorwat &show_icons=true&theme=tokyonight)
 
 ---
 
