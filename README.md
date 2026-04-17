@@ -1,11 +1,11 @@
-# Hi 👋, I'm Sudeep thorwat 
+ # Hi 👋, I'm Sudeep Thorwat 
 
 🎓 3rd Year ECE Student  
 💡 Passionate about AI, Full Stack Development & Embedded Systems  
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
-📫 How to reach me: sudeepthorwat1@gmail.com  
+📫 How to reach me: sudeepthorwat1@gmail.com
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sudeepthorwat&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=SudeepThorwat&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -54,4 +54,4 @@
 
 ## 📊 GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sudeepthorwat&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SudeepThorwat&theme=tokyonight)
