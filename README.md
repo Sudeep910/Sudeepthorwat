@@ -1,17 +1,16 @@
- # Hi 👋, I'm Sudeep Thorwat 
+# Hi 👋, I'm Sudeep Thorwat 
 
 🎓 3rd Year ECE Student  
 💡 Passionate about AI, Full Stack Development & Embedded Systems  
 🚀 Currently working on: AI Thumbnail Generator & MIMO Antenna Array  
-📫 How to reach me: sudeepthorwat1@gmail.com
+📫 How to reach me: sudeepthorwat1@gmail.com  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sudeepthorwat &show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sudeepthorwat&showicons=true&theme=tokyonight)
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=for-the-badge)
 
@@ -46,8 +45,6 @@
 
 ## 🔥 Current Projects
 
-![AI Thumbnail Generator](https://img.shields.io/badge/Project-AI_Thumbnail_Generator-red?style=for-the-badge)
-![MIMO Antenna Array](https://img.shields.io/badge/Project-MIMO_Antenna_Array-blueviolet?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/FullStack-Project-green?style=for-the-badge)
 
 ---
